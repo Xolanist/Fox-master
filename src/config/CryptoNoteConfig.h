@@ -325,9 +325,9 @@ namespace CryptoNote
 
     const size_t COMMAND_RPC_GET_BLOCKS_FAST_MAX_COUNT = 100;
 
-    const int P2P_DEFAULT_PORT = 55100;
+    const int P2P_DEFAULT_PORT = 55910;
 
-    const int RPC_DEFAULT_PORT = 55101;
+    const int RPC_DEFAULT_PORT = 55911;
 
     const int SERVICE_DEFAULT_PORT = 1900;
 
@@ -382,7 +382,7 @@ namespace CryptoNote
 
     const char* const SEED_NODES[] = {
         "91.107.122.197:55910", // solo han
-        "178.250.156.150:55910", // bebobo
+        "185.246.66.138:55910", // bebobo
         "10.0.0.101:55910", // CuéeBits
         "46.214.70.19:55910", // derogold4ever.online
     };
